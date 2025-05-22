@@ -1,70 +1,67 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# InFlow
 
-## Available Scripts
+##  Welcome to InFlow!
 
-In the project directory, you can run:
+InFlow is a decentralized SocialFi platform that enables content ownership, engagement monetization, and blockchain-powered rewards. It removes algorithmic control and data exploitation, offering creators fair compensation through NFT-backed posts, tokenized engagement, and community governance.
 
-### `npm start`
+---
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+##  Tech Stack
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+* **Framework:** [Next.js](https://nextjs.org/) (App Router)
+* **UI Components:** [Shadcn UI](https://ui.shadcn.com/)
+* **Styling:** [Tailwind CSS](https://tailwindcss.com/)
+* **Language:** [TypeScript](https://www.typescriptlang.org/)
+* **Package Manager:** [npm](https://www.npmjs.com/)
 
-### `npm test`
+---
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+##  Local Development
 
-### `npm run build`
+Follow these steps to get a local copy of the project up and running for development and contribution purposes.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Prerequisites
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+* Node.js (v18.x or later)
+* npm
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Installation Steps
 
-### `npm run eject`
+1.  **Fork the repository:** Click the "Fork" button at the top right of this page.
+2.  **Clone your forked repository:**
+    ```bash
+    git clone [https://github.com/](https://github.com/)[YourGitHubUsername]/[YourRepoName].git
+    cd [YourRepoName]
+    ```
+3.  **Install dependencies:**
+    ```bash
+    npm i
+    ```
+4.  **Run the development server:**
+    ```bash
+    npm run dev
+    ```
+    Open [http://localhost:3000](http://localhost:3000) in your browser.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+---
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+##  How to Contribute
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+We welcome and encourage contributions from everyone! Whether it's reporting a bug, suggesting a feature, improving documentation, or writing code, your help makes a difference.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Please refer to our comprehensive **[CONTRIBUTING.md](CONTRIBUTING.md)** file for detailed guidelines on:
 
-## Learn More
+* Setting up your development environment.
+* Branching strategy and commit message conventions.
+* How to create and submit Pull Requests.
+* Adhering to our design system and code style.
+* Finding `good first issues` to get started.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+---
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+##  Questions or Support
 
-### Code Splitting
+If you have any questions or need assistance, please:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+* Join our [Telegram]([https://t.me/+FRALUDsi24k4MWQ0]).
